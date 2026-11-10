@@ -1,5 +1,5 @@
 // Poland 2026 pocket guide: works offline after the first visit.
-const CACHE = 'pl2026-v8';
+const CACHE = 'pl2026-v9';
 const FILES = ['./', './index.html', './manifest.webmanifest', './apple-touch-icon.png', './icon-192.png', './icon-512.png', './trip.ics'];
 self.addEventListener('install', e => { e.waitUntil(caches.open(CACHE).then(c => c.addAll(FILES))); self.skipWaiting(); });
 self.addEventListener('activate', e => {
