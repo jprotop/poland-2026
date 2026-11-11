@@ -272,4 +272,198 @@ DESCRIPTION:✈ Πτήση A3 873 Βαρσοβία → Αθήνα
 TRIGGER:-PT120M
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:pl2026-cx-kra@pocket-guide
+DTSTAMP:20261110T120000Z
+DTSTART:20261123T080000Z
+DTEND:20261123T081500Z
+SUMMARY:⏳ Τελευταία μέρα δωρεάν ακύρωσης: City
+  Lights Apartments, Κρακοβία
+DESCRIPTION:Προθεσμία: Δευ 23/11 · ώρα όπως στην κ
+ ράτηση (για ασφάλεια έως 12:00) (ώρα Πολωνία
+ ς). Επιστροφή: 334,74 €. Από την πλατφόρμα τη
+ ς κράτησης ή μέσω WhatsApp στον οικοδεσπότη.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ Τελευταία μέρα δωρεάν ακύρωσης: 
+ City Lights Apartments, Κρακοβία
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ Τελευταία μέρα δωρεάν ακύρωσης: 
+ City Lights Apartments, Κρακοβία
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pl2026-cx-osw@pocket-guide
+DTSTAMP:20261110T120000Z
+DTSTART:20261124T130000Z
+DTEND:20261124T131500Z
+SUMMARY:⏳ Τελευταία μέρα δωρεάν ακύρωσης: Άο
+ υσβιτς — tourspoland.com
+DESCRIPTION:Προθεσμία: Τρι 24/11 · 5 εργάσιμες πρι
+ ν την εκδρομή (στείλτε μέσα στο ωράριο γρ
+ αφείου) (ώρα Πολωνίας). Επιστροφή: 60 € προ
+ καταβολή (τα 50 € μετρητά δεν έχουν πληρω
+ θεί). Γραπτώς στον Θανάση Κωνσταντίνου (to
+ urspoland.com).
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ Τελευταία μέρα δωρεάν ακύρωσης: 
+ Άουσβιτς — tourspoland.com
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ Τελευταία μέρα δωρεάν ακύρωσης: 
+ Άουσβιτς — tourspoland.com
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pl2026-cx-sixt@pocket-guide
+DTSTAMP:20261110T120000Z
+DTSTART:20261125T080000Z
+DTEND:20261125T081500Z
+SUMMARY:⏳ Τελευταία μέρα δωρεάν ακύρωσης: Sixt
+  μέσω Booking.com
+DESCRIPTION:Προθεσμία: Τετ 25/11 12:00 · 48 ώρες πριν 
+ την παραλαβή (ώρα Πολωνίας). Επιστροφή: ≈
+  173,63 € (ενοικίαση + πρόσθετη ασφάλεια). Book
+ ing.com › Οι κρατήσεις μου › Ακύρωση.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ Τελευταία μέρα δωρεάν ακύρωσης: 
+ Sixt μέσω Booking.com
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ Τελευταία μέρα δωρεάν ακύρωσης: 
+ Sixt μέσω Booking.com
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pl2026-cx-gda@pocket-guide
+DTSTAMP:20261110T120000Z
+DTSTART:20261125T195900Z
+DTEND:20261125T201400Z
+SUMMARY:⏳ Τελευταία μέρα δωρεάν ακύρωσης: PURO
+  Gdańsk Stare Miasto
+DESCRIPTION:Προθεσμία: Τετ 25/11 23:59 (ώρα Πολωνίας
+ ). Επιστροφή: 193 €. Booking.com με αριθμό κράτησ
+ ης και PIN.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ Τελευταία μέρα δωρεάν ακύρωσης: 
+ PURO Gdańsk Stare Miasto
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ Τελευταία μέρα δωρεάν ακύρωσης: 
+ PURO Gdańsk Stare Miasto
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pl2026-cx-wro@pocket-guide
+DTSTAMP:20261110T120000Z
+DTSTART:20261126T195900Z
+DTEND:20261126T201400Z
+SUMMARY:⏳ Τελευταία μέρα δωρεάν ακύρωσης: PURO
+  Wrocław Stare Miasto
+DESCRIPTION:Προθεσμία: Πεμ 26/11 23:59 (ώρα Πολωνίας
+ ). Επιστροφή: 131 €. Booking.com με αριθμό κράτησ
+ ης και PIN.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ Τελευταία μέρα δωρεάν ακύρωσης: 
+ PURO Wrocław Stare Miasto
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ Τελευταία μέρα δωρεάν ακύρωσης: 
+ PURO Wrocław Stare Miasto
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pl2026-cx-wie@pocket-guide
+DTSTAMP:20261110T120000Z
+DTSTART:20261129T040000Z
+DTEND:20261129T041500Z
+SUMMARY:⏳ Τελευταία μέρα δωρεάν ακύρωσης: Βι
+ ελίτσκα — Mr.Shuttle
+DESCRIPTION:Προθεσμία: Κυρ 29/11 08:00 · 24 ώρες πριν 
+ την παραλαβή (ώρα Πολωνίας). Επιστροφή: 109
+ ,67 €. Email ή τηλέφωνο Mr.Shuttle (+48 510 56 00 00).
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ Τελευταία μέρα δωρεάν ακύρωσης: 
+ Βιελίτσκα — Mr.Shuttle
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ Τελευταία μέρα δωρεάν ακύρωσης: 
+ Βιελίτσκα — Mr.Shuttle
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pl2026-cx-waw@pocket-guide
+DTSTAMP:20261110T120000Z
+DTSTART:20261201T195900Z
+DTEND:20261201T201400Z
+SUMMARY:⏳ Τελευταία μέρα δωρεάν ακύρωσης: PURO
+  Warszawa Centrum
+DESCRIPTION:Προθεσμία: Τρι 01/12 23:59 (ώρα Πολωνίας
+ ). Επιστροφή: 327 €. Booking.com με αριθμό κράτησ
+ ης και PIN.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ Τελευταία μέρα δωρεάν ακύρωσης: 
+ PURO Warszawa Centrum
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏳ Τελευταία μέρα δωρεάν ακύρωσης: 
+ PURO Warszawa Centrum
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pl2026-p1@pocket-guide
+DTSTAMP:20261111T160000Z
+DTSTART:20261127T043000Z
+DTEND:20261127T050000Z
+SUMMARY:🅿 Πάρκινγκ ParkAround P3 Value
+LOCATION:Αεροδρόμιο Αθηνών\, Μακράς Διάρκειας Value
+DESCRIPTION:Είσοδος με αναγνώριση πινακίδας (μην πατήσετε το κουμπί εισιτηρίου) · shuttle ~8΄ · πτήση 09:00.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🅿 Πάρκινγκ ParkAround P3 Value
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pl2026-p2@pocket-guide
+DTSTAMP:20261111T160000Z
+DTSTART:20261205T201500Z
+DTEND:20261205T204500Z
+SUMMARY:🅿 Επιστροφή στο P3 Value · πληρωμή 48 €
+LOCATION:Αεροδρόμιο Αθηνών\, Έξοδος 3 (Αφίξεις)
+DESCRIPTION:Shuttle από τη στάση μπροστά στην Έξοδο 3 · πληρωμή 48 € στο ταμείο · έξοδος μέσα σε 10΄.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🅿 Επιστροφή στο P3 Value · πληρωμή 48 €
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
